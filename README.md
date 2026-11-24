@@ -3,41 +3,33 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaures-ngangoula-4413023b4/"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Tree-Ai-lab"><b>Tree AI Lab</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://huggingface.co/Tree-AI-lab"><b>Hugging Face</b></a>
+  <i>L'intelligence artificielle est en train de redessiner le monde.<br>
+  L'Afrique a mieux à faire que de la regarder passer.</i>
 </p>
 
 <br>
 
-<img src="assets/h-profil.svg" width="100%" alt="Profil">
+<img src="assets/h-vision.svg" width="100%" alt="Vision">
 
-Ingénieur AI/ML, je conçois des systèmes d'intelligence artificielle appliqués : agents, architectures RAG, modèles de langage et traitement de la parole. Ma démarche reste la même d'un projet à l'autre : partir d'un besoin concret et aboutir à une solution fiable, réellement utilisée.
+L'intelligence artificielle se conçoit aujourd'hui dans une poignée de laboratoires, à partir de données et de langues qui ne sont pas les nôtres. Des centaines de millions de personnes restent ainsi à la porte d'une technologie qui prétend pourtant s'adresser à tous.
 
-Ce qui m'anime dépasse toutefois la technique. L'Afrique possède les talents, les langues, les données et les enjeux pour participer pleinement à la construction de l'intelligence artificielle. Pourtant, elle se contente encore trop souvent d'en consommer les produits. Je veux contribuer à changer cette position : que le continent ne soit plus spectateur de cette révolution, mais l'un de ses acteurs, capable de concevoir des modèles qui partent de ses propres réalités.
+Cela peut changer. L'Afrique a les esprits, les langues, les problèmes à résoudre et l'énergie nécessaires pour devenir un véritable foyer de création en IA. Je veux prendre part à ce mouvement : concevoir, depuis le continent, des systèmes qui partent de nos réalités, et contribuer à la recherche plutôt que d'en attendre les résultats.
 
-C'est dans cette perspective que j'ai cofondé **Tree AI Lab**, et que je m'oriente vers la **recherche en IA** : comprendre les modèles en profondeur pour, demain, en proposer de nouveaux.
-
-<br>
-
-<img src="assets/h-experience.svg" width="100%" alt="Expérience">
-
-**Cofondateur & AI Research Engineer** · [Tree AI Lab](https://github.com/Tree-Ai-lab)<br>
-Laboratoire indépendant de recherche en intelligence artificielle, dont les travaux sont publiés en open source.
-- Direction de **Kouman AI**, une IA conçue pour comprendre et parler les langues locales, à l'écrit comme à l'oral, en commençant par le baoulé.
-- Trois versions du modèle développées à ce jour ; une version publique est en préparation.
-
-**AI & Automation Engineer** · Veilleur des Médias<br>
-Veille médiatique, analyse des médias et e-réputation.
-- Conception d'un **système multi-agents** qui automatise la rédaction des rapports d'analyse média : leur production passe d'une journée de travail à quelques minutes.
-- Développement de bout en bout d'un **assistant conversationnel RAG** pour le site de l'entreprise, capable de transmettre automatiquement les demandes complexes au service client.
-- Identification des cas d'usage à forte valeur et intégration de solutions ML, NLP et d'IA générative dans les différents départements.
+C'est ce qui guide chacun de mes projets, et c'est la raison d'être de **[Tree AI Lab](https://github.com/Tree-Ai-lab)**, le laboratoire de recherche que j'ai cofondé.
 
 <br>
 
-<img src="assets/h-projets.svg" width="100%" alt="Projets sélectionnés">
+<img src="assets/h-chantiers.svg" width="100%" alt="Chantiers en cours">
+
+**Donner une voix à nos langues.** Avec Kouman AI, nous apprenons à une intelligence artificielle à comprendre et à parler les langues ivoiriennes, à l'écrit comme à l'oral, en commençant par le baoulé. Un premier modèle est déjà ouvert à tous ; les suivants le seront aussi.
+
+**Des agents qui font le travail.** Je conçois des systèmes multi-agents et des assistants RAG qui prennent en charge des tâches entières, de la collecte de l'information à sa restitution. L'un d'eux ramène à quelques minutes la rédaction de rapports d'analyse qui mobilisait auparavant une journée complète.
+
+**Aller jusqu'à la recherche.** Utiliser les modèles ne me suffit pas ; je veux comprendre ce qui les fait fonctionner, pour un jour en proposer de nouveaux.
+
+<br>
+
+<img src="assets/h-projets.svg" width="100%" alt="Projets">
 
 <p align="center">
   <a href="https://github.com/Tree-Ai-lab/kouman-Ilm-for-baoule"><img src="assets/cards/kouman.svg" width="49%" alt="Kouman AI"></a>
@@ -48,20 +40,27 @@ Veille médiatique, analyse des médias et e-réputation.
   <a href="https://github.com/ngangoula-jaures/Simple_Agri-LLM"><img src="assets/cards/agri.svg" width="49%" alt="Simple_Agri-LLM"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ngangoula-jaures?tab=repositories">Voir l'ensemble des dépôts</a>
-</p>
-
 <br>
 
-<img src="assets/h-competences.svg" width="100%" alt="Compétences">
+<img src="assets/h-outils.svg" width="100%" alt="Outils">
 
 <p align="center">
-  <img src="assets/skills.svg" width="100%" alt="IA générative et LLM, Machine et Deep Learning, Data et MLOps, Développement">
+  <img src="assets/skills.svg" width="100%" alt="Python, PyTorch, Hugging Face, LangChain, LLM, agents, RAG, NLP, speech">
 </p>
 
 <br>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<p align="center"><i>Penser, concevoir et produire l'intelligence artificielle en Afrique.</i></p>
+<p align="center">
+  Chercheur, ingénieur ou simplement convaincu que l'avenir de l'IA s'écrit aussi en Afrique ?<br>
+  <b>Construisons-le ensemble.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaures-ngangoula-4413023b4/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Tree-Ai-lab"><b>Tree AI Lab</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://huggingface.co/Tree-AI-lab"><b>Hugging Face</b></a>
+</p>

@@ -9,6 +9,6 @@
 <rect width="1200" height="64" rx="10" fill="#0F0B08"/>
 <polygon points="34,18 48,32 34,46 20,32" fill="#E8730C"/>
 <polygon points="34,26 40,32 34,38 28,32" fill="#0F0B08"/>
-<text x="66" y="41" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F2E9DD" letter-spacing="5">PROJETS SÉLECTIONNÉS</text>
+<text x="66" y="41" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F2E9DD" letter-spacing="5">PROJETS</text>
 <rect x="880" y="26" width="290" height="12" fill="url(#b)"/>
 </svg>
