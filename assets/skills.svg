@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs><pattern id="b" width="20" height="10" patternUnits="userSpaceOnUse">
+  <rect width="20" height="10" fill="#17110C"/>
+  <polygon points="0,10 5.0,0 10,10" fill="#E8730C"/>
+  <polygon points="10,0 15.0,10 20,0" fill="#9C4A08"/>
+  <polygon points="5.0,5.5 6.5,7.800000000000001 5.0,10 3.5,7.800000000000001" fill="#0F0B08"/>
+  <polygon points="15.0,0 16.200000000000003,2.0 15.0,4.2 13.799999999999999,2.0" fill="#F5A04A"/>
+</pattern></defs>
+<rect width="1200" height="420" rx="14" fill="#0F0B08"/>
+
+<text x="40" y="54" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#E8730C" letter-spacing="3">IA GÉNÉRATIVE &amp; LLM</text>
+<rect x="40" y="70" width="55" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="67.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">LLM</text>
+<rect x="105" y="70" width="107" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="158.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Agents IA</text>
+<rect x="222" y="70" width="55" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="249.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">RAG</text>
+<rect x="287" y="70" width="133" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="353.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">LoRA / QLoRA</text>
+<rect x="430" y="70" width="55" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="457.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">NLP</text>
+<rect x="495" y="70" width="133" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="561.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">ASR / Speech</text>
+<rect x="638" y="70" width="107" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="691.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">LangChain</text>
+<rect x="755" y="70" width="133" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="821.5" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Hugging Face</text>
+<rect x="898" y="70" width="98" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="947.0" y="91" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">ChromaDB</text>
+<text x="40" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#E8730C" letter-spacing="3">MACHINE &amp; DEEP LEARNING</text>
+<rect x="40" y="164" width="90" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="85.0" y="185" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">PyTorch</text>
+<rect x="140" y="164" width="184" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="232.0" y="185" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">TensorFlow / Keras</text>
+<rect x="334" y="164" width="133" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="400.5" y="185" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Scikit-learn</text>
+<rect x="477" y="164" width="133" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="543.5" y="185" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">ML supervisé</text>
+<rect x="620" y="164" width="141" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="690.5" y="185" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Deep Learning</text>
+<text x="40" y="242" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#E8730C" letter-spacing="3">DATA &amp; MLOPS</text>
+<rect x="40" y="258" width="81" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="80.5" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Python</text>
+<rect x="131" y="258" width="81" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="171.5" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Pandas</text>
+<rect x="222" y="258" width="73" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="258.5" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">NumPy</text>
+<rect x="305" y="258" width="116" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="363.0" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">PostgreSQL</text>
+<rect x="431" y="258" width="73" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="467.5" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">MySQL</text>
+<rect x="514" y="258" width="133" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="580.5" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Apache Kafka</text>
+<rect x="657" y="258" width="55" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="684.5" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">ETL</text>
+<rect x="722" y="258" width="98" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="771.0" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Power BI</text>
+<rect x="830" y="258" width="81" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="870.5" y="279" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Docker</text>
+<text x="40" y="336" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#E8730C" letter-spacing="3">DÉVELOPPEMENT</text>
+<rect x="40" y="352" width="90" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="85.0" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">FastAPI</text>
+<rect x="140" y="352" width="73" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="176.5" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Flask</text>
+<rect x="223" y="352" width="116" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="281.0" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">JavaScript</text>
+<rect x="349" y="352" width="73" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="385.5" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">React</text>
+<rect x="432" y="352" width="81" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="472.5" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Vue.js</text>
+<rect x="523" y="352" width="141" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="593.5" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">PHP / Laravel</text>
+<rect x="674" y="352" width="133" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="740.5" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Rust / Tauri</text>
+<rect x="817" y="352" width="55" height="32" rx="6" fill="#17110C" stroke="#2E2219" stroke-width="1.5"/>
+<text x="844.5" y="373" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#F2E9DD">Git</text>
+</svg>

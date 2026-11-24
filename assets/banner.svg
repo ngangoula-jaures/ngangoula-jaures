@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+  <pattern id="band" width="52" height="26" patternUnits="userSpaceOnUse">
+  <rect width="52" height="26" fill="#17110C"/>
+  <polygon points="0,26 13.0,0 26,26" fill="#E8730C"/>
+  <polygon points="26,0 39.0,26 52,0" fill="#9C4A08"/>
+  <polygon points="13.0,14.3 16.900000000000002,20.28 13.0,26 9.1,20.28" fill="#0F0B08"/>
+  <polygon points="39.0,0 42.120000000000005,5.2 39.0,10.92 35.879999999999995,5.2" fill="#F5A04A"/>
+</pattern>
+  <radialGradient id="glow" cx="80%" cy="50%" r="55%">
+    <stop offset="0" stop-color="#E8730C" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#E8730C" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="330" rx="18" fill="#0F0B08"/>
+<rect width="1200" height="330" rx="18" fill="url(#glow)"/>
+<rect x="0" y="0" width="1200" height="26" fill="url(#band)"/>
+<rect x="0" y="304" width="1200" height="26" fill="url(#band)" transform="rotate(180 600 317)"/>
+<g>
+  <polygon points="965,45 1085,165 965,285 845,165" fill="none" stroke="#E8730C" stroke-width="3"/>
+  <polygon points="965,69 1061,165 965,261 869,165" fill="none" stroke="#7A3A07" stroke-width="3"/>
+  <polygon points="965,93 1037,165 965,237 893,165" fill="none" stroke="#E8730C" stroke-width="3"/>
+  <polygon points="965,117 1013,165 965,213 917,165" fill="none" stroke="#7A3A07" stroke-width="3"/>
+  <polygon points="965,141 989,165 965,189 941,165" fill="none" stroke="#E8730C" stroke-width="3"/>
+  <polygon points="965,156 974,165 965,174 956,165" fill="#F5A04A"/>
+  <polygon points="815,151 829,165 815,179 801,165" fill="#E8730C"/>
+  <polygon points="1115,151 1129,165 1115,179 1101,165" fill="#E8730C"/>
+</g>
+<text x="70" y="128" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F2E9DD" letter-spacing="3">JAURÈS NGANGOULA</text>
+<text x="72" y="172" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#E8730C" letter-spacing="7">AI / ML ENGINEER</text>
+<rect x="72" y="196" width="90" height="4" fill="#E8730C"/>
+<rect x="168" y="196" width="10" height="4" fill="#F5A04A"/>
+<text x="72" y="238" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#F2E9DD" opacity="0.92">Faire de l'Afrique un acteur de l'intelligence artificielle,</text>
+<text x="72" y="266" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#F2E9DD" opacity="0.92">et non plus seulement un spectateur.</text>
+</svg>
